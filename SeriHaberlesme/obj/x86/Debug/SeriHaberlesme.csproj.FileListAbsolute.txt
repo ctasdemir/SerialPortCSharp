@@ -1,0 +1,7 @@
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
