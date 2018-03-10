@@ -53,14 +53,18 @@ namespace SeriHaberlesme
             if (serialPort1.IsOpen == true)
             {
                 serialPort1.Write(textBoxSerialPortGonderilecekVeri.Text);
-                if (comboBoxVeriGonderKarakteri.SelectedIndex == 1)
+                switch(comboBoxVeriGonderKarakteri.SelectedIndex)
                 {
-                    serialPort1.Write(veri,0,1);
-                }
-                else if (comboBoxVeriGonderKarakteri.SelectedIndex == 2)
-                {
-                    serialPort1.Write(veri,0,2);
-                }
+                    case 1: // CR
+                        serialPort1.Write(veri, 0, 1);
+                        break;
+                    case 2:// NL
+                        serialPort1.Write(veri, 1, 1);
+                        break;
+                    case 3://CR & NL
+                        serialPort1.Write(veri, 0, 2);
+                        break;
+                }               
             }
         }
 
